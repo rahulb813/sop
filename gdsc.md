@@ -1,5 +1,4 @@
 # GDSC Kotlin
-- 
 ## Team Directions
 
 -   Given course to all members
