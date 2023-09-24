@@ -3,3 +3,9 @@
  - Completed sorting - `needs revision`
  - Reached medium difficulty on arrays. - needs recall on [`DNF Algorithm`](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/)
  - 
+
+## LeetCode
+- Solved POTD - 24/09/2023
+- HG Level - 7 - 24/09/2023
+## GFG
+- Solved POTD -  24/09/2023
