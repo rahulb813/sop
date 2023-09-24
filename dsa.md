@@ -2,7 +2,7 @@
 
 # DSA 
 ## [Striver DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) - 51 / 455
- - Completed sorting -  <span style="color:red">needs revision</span>
+ - Completed sorting - <span style="color:red">needs revision</span>
  - Reached medium difficulty on arrays. - needs recall on [`DNF Algorithm`](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/)
  - 
 
