@@ -5,3 +5,5 @@
 - Tasks initiated
 - DCC Finished
 - Streak++
+- Drown down
+- Recharge @22:27
