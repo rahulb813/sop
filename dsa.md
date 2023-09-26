@@ -10,4 +10,5 @@
 - Solved POTD - 24/09/2023
 - HG Level - 2 - 24/09/2023
 ## GFG
-- Solved POTD -  24/09/2023
+- Lost POTD - 25/09/2023
+- Solved POTD -  26/09/2023
