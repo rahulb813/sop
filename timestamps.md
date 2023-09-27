@@ -7,3 +7,8 @@
 - Drown down - 19:30
 - Recharge - 22:27
 - Other works - lost
+## 27/09/2023
+- Exam (UniString) - 11:30
+- Rest - 16:00
+- UniString Shortlisted - 17:00
+- [POTD](./dsa.md) done - 17:20
