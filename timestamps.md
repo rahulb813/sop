@@ -14,5 +14,5 @@
 - [POTD](./dsa.md) done - 17:20
 ## 28/09/2023
 - Workout - 09:00
-- UTS - 11:30
-
+- UTS Exam - 11:30
+- 
