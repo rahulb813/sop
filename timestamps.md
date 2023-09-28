@@ -16,3 +16,4 @@
 - Workout - 09:00
 - UTS Exam - 11:30
 - Heavy drowse - 15:30
+- Weak Reboot - 22:30
