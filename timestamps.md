@@ -12,3 +12,6 @@
 - Rest - 16:00
 - UniString Shortlisted - 17:00
 - [POTD](./dsa.md) done - 17:20
+## 28/09/2023
+- Workout - 09:00
+
