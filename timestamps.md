@@ -17,3 +17,9 @@
 - UTS Exam - 11:30
 - Heavy drowse - 15:30
 - Weak Reboot - 22:30
+## 29/09/2023
+- Late Boot - 08:30
+- Sabre Exam - 12:30
+- Weekend Clear Up - 15:30
+- Amazon HackOn - 18:00
+- Minor Proj Work Init - 18:30
