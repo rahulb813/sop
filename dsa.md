@@ -8,7 +8,7 @@
  - Need to work on Kadane's Algorithm
 
 ## LeetCode
-- Solved POTD - 28/09/2023
-- HG Level - 1 - 28/09/2023
+- Solved POTD - 29/09/2023
+- HG Level - 2 - 29/09/2023
 ## GFG
-- Solved POTD -  28/09/2023
+- Solved POTD -  29/09/2023
