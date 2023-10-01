@@ -23,3 +23,5 @@
 - Weekend Clear Up - 15:30
 - Amazon HackOn - 18:00
 - Minor Proj Work Init - 18:30
+## 30/09-01/10/2023
+- will addd soon
