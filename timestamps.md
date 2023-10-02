@@ -24,4 +24,9 @@
 - Amazon HackOn - 18:00
 - Minor Proj Work Init - 18:30
 ## 30/09-01/10/2023
-- will add soon
+- weekend skip
+## 02/10/2023
+- Weak boot - 10:00
+- POTD completed - 11:00
+- A lot of gaming - 17:00
+- Kadane's Algo partially done - 18:30
