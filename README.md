@@ -3,3 +3,4 @@
 - [DSA](./dsa.md)
 - [GDSC](./gdsc.md)
 - [Academics](./academics.md)
+- [Minor Project](./minor.md)
