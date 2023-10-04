@@ -30,3 +30,5 @@
 - POTD completed - 11:00
 - A lot of gaming - 17:00
 - Kadane's Algo partially done - 18:30
+## 03-04/10/2023
+- Data Unavailable
