@@ -7,7 +7,7 @@
 - Moore's Algo finished
 - Kadane's Algorithm `partially` finished
 ## LeetCode
-- Solved POTD - 02/10/2023
-- HG Level - 4 - 02/10/2023
+- Solved POTD - 06/10/2023
+- HG Level - 1 - 06/10/2023
 ## GFG
-- Solved POTD -  02/10/2023
+- Solved POTD -  06/10/2023
