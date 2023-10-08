@@ -2,6 +2,8 @@
 
 # Academics
 
+<!-- IOT -->
+
 ## IoT
 - Ref pdfs found
 - Syllabus page found
@@ -12,6 +14,9 @@
 -   [Syllabus]()
 - Complete Mark - NULL
 
+
+<!-- Texto Mining -->
+
 ## Text Mining
 - Notes ready for midsem
 - Syllabus - Unit 3 upto given pdf
@@ -19,6 +24,10 @@
 
 -   [Syllabus]()
 - Complete Mark - NULL
+
+
+<!-- BlockChain Technology -->
+
 ## BlockChain Technology
 
 ### [JavaTPoint](https://www.javatpoint.com/blockchain-tutorial) (-) [GFG](https://www.geeksforgeeks.org/blockchain-technology-introduction/)
@@ -26,12 +35,18 @@
 -   [Syllabus]()
 - Complete Mark - NULL
 
+
+<!-- Computer Vision -->
+
 ## Computer Vision
 
 ### [JavaTPoint](https://www.javatpoint.com/computer-vision) (-) [GFG](https://www.geeksforgeeks.org/computer-vision/)
 
 -   [Syllabus]()
 - Complete Mark - NULL
+
+
+<!-- Open Elective -->
 
 ## Computer Communications
 
