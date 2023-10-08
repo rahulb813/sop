@@ -10,7 +10,9 @@
 - Complete Mark - NULL
 
 ## Text Mining
-
+- Notes ready for midsem
+- Unit 3 upto given pdf
+- 
 ### [JavaTPoint](https://www.javatpoint.com/text-data-mining) (-) [GFG](https://www.geeksforgeeks.org/text-mining-in-data-mining/)
 
 -   [Syllabus]()
