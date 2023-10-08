@@ -3,6 +3,9 @@
 # Academics
 
 ## IoT
+- Ref pdfs found
+- Syllabus page found
+- YT Channel - [5 Minute Engineering](https://www.youtube.com/watch?v=APH6Nrar27w&list=PLYwpaL_SFmcB8fDd64B8SkJiPpEIzpCzC)
 
 ### [JavaTPoint](https://www.javatpoint.com/iot-internet-of-things) (-) [GFG](https://www.geeksforgeeks.org/introduction-to-internet-of-things-iot-set-1/)
 
@@ -11,7 +14,7 @@
 
 ## Text Mining
 - Notes ready for midsem
-- Unit 3 upto given pdf
+- Syllabus - Unit 3 upto given pdf
 ### [JavaTPoint](https://www.javatpoint.com/text-data-mining) (-) [GFG](https://www.geeksforgeeks.org/text-mining-in-data-mining/)
 
 -   [Syllabus]()
