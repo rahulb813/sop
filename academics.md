@@ -29,7 +29,7 @@
 <!-- BlockChain Technology -->
 
 ## BlockChain Technology
-
+- Notes available in drive
 ### [JavaTPoint](https://www.javatpoint.com/blockchain-tutorial) (-) [GFG](https://www.geeksforgeeks.org/blockchain-technology-introduction/)
 
 -   [Syllabus]()
