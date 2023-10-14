@@ -15,4 +15,4 @@
 - Meeting `HIGH PRIORITY`
 - Assign tasks ASAP
 
-### Urgent Meet with team and announce about project idea
+### Team meet after midsem
