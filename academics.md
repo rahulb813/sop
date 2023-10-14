@@ -45,7 +45,7 @@
 
 -   [Syllabus]()
 - Complete Mark - NULL
-
+- Midsem finished - Average
 
 <!-- Open Elective -->
 
