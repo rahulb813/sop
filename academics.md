@@ -24,6 +24,7 @@
 
 -   [Syllabus]()
 - Complete Mark - NULL
+- Midsem Done - fked up real bad
 
 
 <!-- BlockChain Technology -->
