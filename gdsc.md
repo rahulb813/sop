@@ -16,3 +16,5 @@
 - Assign tasks ASAP
 
 ### Team meet after midsem
+
+### Midsem completed
