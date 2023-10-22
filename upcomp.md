@@ -18,3 +18,7 @@
 ## Digit Insurance - Unknown
 - PPT & OA - 25th October @--:--
 - T&PI - 27th October @--:--
+
+## Winjit Technologies
+- PPT + Interview - 23rd October @--:--
+- T&PI - 25th and 26th October @--:--
