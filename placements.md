@@ -9,3 +9,8 @@
 - Heap - Basics on [YT](https://www.youtube.com/watch?v=NKJnHewiGdc)
 ## OOPS
 - Quick Revision and interview windup [here](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
+## Development
+- Next and React basics
+- Tailwind basics
+- Android views, navs, compose basics
+- 
