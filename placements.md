@@ -17,3 +17,4 @@
 - Logistic Regression basics
 - Confusion Matrix and all formulae
 - All python basic libraries
+- Agents basics
