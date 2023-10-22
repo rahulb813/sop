@@ -21,4 +21,4 @@
 
 ## Winjit Technologies
 - PPT + Interview - 23rd October @--:--
-- T&PI - 25th and 26tha October @--:--
+- T&PI - 25th and 26th October @--:--
