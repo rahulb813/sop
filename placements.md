@@ -13,4 +13,3 @@
 - Next and React basics
 - Tailwind basics
 - Android views, navs, compose basics
-- 
