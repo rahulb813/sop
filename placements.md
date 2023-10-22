@@ -13,3 +13,7 @@
 - Next and React basics
 - Tailwind basics
 - Android views, navs, compose basics
+## ML and AI
+- Logistic Regression basics
+- Confusion Matrix and all formulae
+- All python basic libraries
