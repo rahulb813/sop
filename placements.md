@@ -7,3 +7,5 @@
 - Sorting - impls + worst case
 - LinkedList - opers on worst case
 - Heap - Basics on [YT](https://www.youtube.com/watch?v=NKJnHewiGdc)
+## OOPS
+- Quick Revision and interview windup [here](https://www.edureka.co/blog/interview-questions/oops-interview-questions/)
