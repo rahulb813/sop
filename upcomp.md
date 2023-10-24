@@ -22,3 +22,6 @@
 ## Winjit Technologies
 - PPT + Interview - 25th October @--:--
 - T&PI - Not yet decided
+
+## Cyberwaves - Intern
+- T - 27th October @13:00
