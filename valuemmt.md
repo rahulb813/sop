@@ -127,7 +127,7 @@ SQL (**Structured Query Language**) is a programming language used to **store, r
 ### 3. **What is a Query?**  
 - A **query** is a command written in SQL to retrieve or manipulate data from a database.  
 
-## Why SQL is Useful for Business Analysts?
+## **Why SQL is Useful for Business Analysts?**
 ✔ **Extracts meaningful insights from large datasets
 ✔ **Helps in data-driven decision-making
 ✔ **Automates repetitive reporting tasks
