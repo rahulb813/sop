@@ -128,11 +128,16 @@ SQL (**Structured Query Language**) is a programming language used to **store, r
 - A **query** is a command written in SQL to retrieve or manipulate data from a database.  
 
 ## **Why SQL is Useful for Business Analysts?**
-✔ **Extracts meaningful insights from large datasets
-✔ **Helps in data-driven decision-making
-✔ **Automates repetitive reporting tasks
-✔ **Works with BI tools like Power BI, Tableau, and Excel
-✔ **Efficiently handles structured data in relational databases
+✔ Extracts meaningful insights from large datasets
+
+✔ Helps in data-driven decision-making
+
+✔ Automates repetitive reporting tasks
+
+✔ Works with BI tools like Power BI, Tableau, and Excel
+
+✔ Efficiently handles structured data in relational databases
+
 
 ## Conclusion
 For a beginner Business Analyst, SQL is an essential skill for querying, analyzing, and reporting data. By mastering SQL, BAs can improve business insights, track KPIs, and make data-driven recommendations.
