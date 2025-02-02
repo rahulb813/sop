@@ -2,6 +2,7 @@
 
 ## **What is JIRA?**  
 - [Video Reference](https://www.youtube.com/watch?v=1RilyCsxp7U)
+  
 JIRA is a project management and issue-tracking tool developed by **Atlassian**. It is widely used in **software development** and **business process management** to track tasks, bugs, and workflows.  
 
 For **Business Analysts (BAs)**, JIRA acts as a **central hub** for managing requirements, tracking progress, and collaborating with stakeholders.
