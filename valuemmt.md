@@ -1,6 +1,7 @@
 # **JIRA for Business Analysts – A Beginner’s Guide**
 
 ## **What is JIRA?**  
+- [Video Reference](https://www.youtube.com/watch?v=1RilyCsxp7U)
 JIRA is a project management and issue-tracking tool developed by **Atlassian**. It is widely used in **software development** and **business process management** to track tasks, bugs, and workflows.  
 
 For **Business Analysts (BAs)**, JIRA acts as a **central hub** for managing requirements, tracking progress, and collaborating with stakeholders.
@@ -50,7 +51,7 @@ For a **beginner Business Analyst**, JIRA helps **organize requirements, collabo
 
 
 # **Power BI for Business Analysts – A Beginner’s Guide**
-
+- [Video Reference](https://www.youtube.com/watch?v=9tF1IrfLflg)
 ## **What is Power BI?**  
 Power BI is a **business intelligence (BI) tool** developed by **Microsoft** that helps users visualize and analyze data. It enables **interactive dashboards, reports, and data-driven insights** without requiring advanced coding skills.
 
@@ -107,6 +108,7 @@ SQL (**Structured Query Language**) is a programming language used to **store, r
 ---
 
 ## **Basic SQL Concepts for Business Analysts**  
+- [Video Reference](https://www.youtube.com/watch?v=kbKty5ZVKMY)
 
 ### 1. **What is a Database?**  
 - A **database** is a structured collection of data stored electronically.  
