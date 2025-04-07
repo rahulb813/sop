@@ -1,0 +1,1 @@
+// background.js (not used in this case but required by manifest)
